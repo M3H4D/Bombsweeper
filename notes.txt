@@ -1,0 +1,15 @@
+1. Everything is hidden
+2. When button clicked show number (if a blank check
+                                        if neighbor is blank 
+                                            if blank open
+                                        else show number and stop
+                                    else show number )
+3. Right Click to flag it and reduce bomb number (if flag correct
+                                                    keep flag
+                                                  else show ur wrong)
+flag system --x
+freespaces --x
+pointer system --x
+proper board placement--x
+ui 
+endscreen and titlescreen --x
